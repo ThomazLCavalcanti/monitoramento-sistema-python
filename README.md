@@ -12,7 +12,7 @@ Este projeto é um script em Python para monitorar em tempo real o uso de recurs
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/monitoramento-sistema-python.git
+git clone https://github.com/ThomazLCavalcanti/monitoramento-sistema-python.git
 cd monitoramento-sistema-python
 ```
 
