@@ -1,0 +1,24 @@
+# Ignora o ambiente virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log
+*.log
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup do editor
+*.swp
+*.swo
+
+# Configurações do VSCode
+.vscode/
